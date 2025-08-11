@@ -1,0 +1,4 @@
+ADGM Companies Regulations - sample excerpt (DEMO ONLY)
+
+This is a short sample excerpt used for demonstration purposes. Replace this file
+with the official ADGM PDFs (and run the index builder) for real citations.
